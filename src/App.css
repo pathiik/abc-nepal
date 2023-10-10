@@ -81,6 +81,7 @@ section.intro-sec div.container div.intro-wrapper header.header-sec {
 section.intro-sec div.container div.intro-wrapper header.header-sec i#header-more-menu {
   font-size: 28px;
   display: none;
+  cursor: pointer;
 }
 section.intro-sec div.container div.intro-wrapper header.header-sec nav.nav-bar ul.nav-bar-list {
   list-style: none;
